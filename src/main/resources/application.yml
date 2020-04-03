@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/gongzhaopeng/sundial-config-repo
+          uri: https://github.com/benben-gongzhaopeng/sundial-config-repo
